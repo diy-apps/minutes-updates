@@ -1,12 +1,13 @@
 {
   "format": 1,
   "program": "Minutes",
-  "version": "2026-11-19 13:30",
+  "version": "2026-11-19 14:00",
   "files": [
     {
       "name": "Minutes.exe",
-      "sha256": "e3dfb9413a62b076e7e49fb2d8094094d890222dc041bcdeb7b9221621e4148a",
+      "sha256": "584ac55c23be4c3103d4352bfb1d0216e624ce000769b965f7d96e7640c14d02",
       "known": [
+        "584ac55c23be4c3103d4352bfb1d0216e624ce000769b965f7d96e7640c14d02",
         "6f2898afbefebc1ffe307cccfa9365d1489cd736efde1f57ae61d9fb27f53013",
         "e3dfb9413a62b076e7e49fb2d8094094d890222dc041bcdeb7b9221621e4148a"
       ]
