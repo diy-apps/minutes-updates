@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "program": "Minutes",
+  "version": "2026-11-19 13:30",
+  "files": [
+    {
+      "name": "Minutes.exe",
+      "sha256": "e3dfb9413a62b076e7e49fb2d8094094d890222dc041bcdeb7b9221621e4148a",
+      "known": [
+        "6f2898afbefebc1ffe307cccfa9365d1489cd736efde1f57ae61d9fb27f53013",
+        "e3dfb9413a62b076e7e49fb2d8094094d890222dc041bcdeb7b9221621e4148a"
+      ]
+    },
+    {
+      "name": "Updater.exe",
+      "sha256": "da6f0ec71119489defeb8a10f32fcfe003c71e7ed67cfa1b28d4e8bdde73d93e",
+      "known": [
+        "da6f0ec71119489defeb8a10f32fcfe003c71e7ed67cfa1b28d4e8bdde73d93e"
+      ]
+    }
+  ]
+}

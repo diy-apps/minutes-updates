@@ -1,0 +1,10 @@
+{
+  "program": "Minutes",
+  "install_dir": "C:\\ProgramData\\DIY\\{program}",
+  "check_at_startup": true,
+  "desktop_shortcut": true,
+  "start_menu_shortcut": false,
+  "copy_subfolders": false,
+  "shortcut_target": "StartMinutes.exe",
+  "shortcut_name": "Minutes"
+}
